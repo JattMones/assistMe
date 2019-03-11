@@ -13,7 +13,7 @@ zip file, or Fork the Repo using </br>https: `git clone https://github.com/JattM
 
 ## Website and Contact
 Contact developers through the [assistMe website](https://assist-me-download.netlify.com/)
-or on [github]().
+or on [github](https://github.com/JattMones/assistMe).
 
 ## Help
 For additional help, view the [helpPage readME]().
