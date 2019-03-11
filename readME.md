@@ -16,7 +16,7 @@ Contact developers through the [assistMe website](https://assist-me-download.net
 or on [github](https://github.com/JattMones/assistMe).
 
 ## Help
-For additional help, view the [helpPage readME](https://github.com/JattMones/assistMe/blob/master/help/readME.md).
+For additional help, view the [help page readME](https://github.com/JattMones/assistMe/blob/master/help/readME.md).
 
 ## Future Work
 Currently, the "Smart Macros" feature in our program does
