@@ -9,8 +9,7 @@ that reduce productively on computers.
 1. Install [Git](https://git-scm.com/downloads) on your device.
 2. Install [Python](https://www.python.org/downloads/) and [AutoHotKey](https://www.autohotkey.com/)
 3. Click the download link on our website to get an assistMe
-zip file, or Clone the Repo using </br>https: `git clone `
-</br>or ssh: `git clone `
+zip file, or Fork the Repo using </br>https: `git clone https://github.com/JattMones/assistMe.git`
 
 ## Website and Contact
 Contact developers through the [assistMe website](https://assist-me-download.netlify.com/)
