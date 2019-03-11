@@ -3,7 +3,7 @@
 ## Getting started
 
 ### Installation and Setup
-See the [readME]() for installation instructions.
+See the [readME](https://github.com/JattMones/assistMe/blob/master/readME.md) for installation instructions.
 ### System Overview
 
 ### Video Tutorial/First Time Use
@@ -43,7 +43,7 @@ variability of something like clicking a button. For
 example, instead of clicking the maximize button, we
 recommend pressing the windows key and up arrow. To see a
 full list of useful hotkeys like this, see the [HotKey
-section](). </br></br>
+section](https://github.com/JattMones/assistMe/edit/master/help/usefulHotkeys.md). </br></br>
 - **Quick Syntax**</br>
 *Variables and Expressions:*
   1. The "=" symbol is used to assign unquoted literal
