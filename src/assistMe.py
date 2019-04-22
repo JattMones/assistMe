@@ -59,6 +59,10 @@ Config.set('graphics', 'resizable', False)
 def showMenu(self):
     App.get_running_app().stop()
     Macros_Menu().run()
+def startScheduler(self):
+    subprocess.Popen(['C:\Program Files\AutoHotKey\AutoHotkey.exe','startSchedule.ahk'])
+    App.get_running_app().stop()
+    Macros_Menu().run()
 def showButton(self):
     App.get_running_app().stop()
     AM().run()
@@ -183,7 +187,7 @@ class recordPage(GridLayout):
         super(recordPage, self).__init__(**kwargs)
         Window.bind(on_request_close = on_request_close)
         self.cols =  1
-        self.add_widget(Button(text='Start smart macros', on_press = showMenu))
+        self.add_widget(Button(text='Start smart macros', on_press= startScheduler))
         self.add_widget(Button(text='Make a misc recording', on_press = recTitle))
         self.add_widget(Button(text='Back',on_press = showMenu,background_color = (0,0,0,1)))
         Window.size = (175, 175)
