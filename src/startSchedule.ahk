@@ -2,7 +2,7 @@ Screenx := A_ScreenWidth
 Screeny := A_ScreenHeight
 ScreenxPos := Screenx//2 + Screenx//4 
 ScreenyPos := Screeny//2
-Msgbox, %ScreenxPos% %ScreenyPos%
+;Msgbox, %ScreenxPos% %ScreenyPos%
 coordMode, Mouse, Screen
 Send, {LWin Down}
 Sleep, 157
